@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaio</h1>
 <h3 align="center">A passionate Mobile developer from Brazil.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiomarxdev" alt="kaiomarxdev" /></a> </p>
-
 - 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **React Native**
