@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaio</h1>
-<h3 align="center">A passionate Mobile developer from Brazil.</h3>
+<h3 align="center">A passionate mobile developer from Brazil, using React Native to make your dream app come true.</h3>
 
 - 🌱 I’m currently learning **React Native**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kaiomarxdev@gmail.com**
 
-- ⚡ Fun fact **I already programmed for web and back-end but now I'm in love with Mobile**
+- ⚡ Fun fact **I already programmed for web in back-end but now I'm in love with Mobile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
