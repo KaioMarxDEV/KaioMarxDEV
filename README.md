@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kaiomarxdev@gmail.com**
 
-- ⚡ Fun fact **I already programmed for web in back-end but now I'm in love with Mobile**
+- ⚡ Fun fact **I already programmed for web in back-end but now focus is on React(Front-end).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
