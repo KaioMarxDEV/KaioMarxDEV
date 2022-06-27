@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaio</h1>
 <h3 align="center">A passionate mobile developer from Brazil, using React Native to make your dream app come true.</h3>
 
-- 🌱 I’m currently specialized in and learning **React Native**
-
-- 👯 I’m looking to collaborate on **React Native Community**
+- 🌱 I’m currently specialized in and learning **React, NodeJS**
 
 - 📝 I regularly write articles on [linkedin.com/in/kaiomarxdev/](linkedin.com/in/kaiomarxdev/)
 
