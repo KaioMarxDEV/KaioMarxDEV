@@ -8,6 +8,7 @@
 - 📫 How to reach me **kaiomarxdev@gmail.com**
 
 - ⚡ Fun fact **I already programmed for web in back-end but now focus is on React(Front-end).**
+- ⚡ Fun fact **Huge apple experience fan, so yeah I like fancy animation with css.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
